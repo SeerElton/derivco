@@ -13,7 +13,6 @@ namespace derivco.Controllers.BetController
     [Route("[controller]")]
     public class BetsController : ControllerBase
     {
-
         private readonly ILogger<BetsController> _logger;
         private readonly IBetRepository betRepository;
 
@@ -28,7 +27,6 @@ namespace derivco.Controllers.BetController
         {
             return await this.betRepository.GetAll();
         }
-
 
         [HttpGet]
         public async Task<List<Bet>> GetById(Guid id)

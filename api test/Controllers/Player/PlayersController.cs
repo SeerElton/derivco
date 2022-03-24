@@ -13,7 +13,6 @@ namespace derivco.Controllers.PlayerController
     [Route("[controller]")]
     public class PlayersController : ControllerBase
     {
-
         private readonly ILogger<PlayersController> _logger;
         private readonly IPlayerRepository playerRepository;
 
@@ -28,7 +27,6 @@ namespace derivco.Controllers.PlayerController
         {
             return await this.playerRepository.GetAll();
         }
-
 
         [HttpGet]
         public async Task<List<Player>> GetById(Guid id)

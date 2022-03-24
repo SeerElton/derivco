@@ -13,7 +13,6 @@ namespace derivco.Controllers.SessionController
     [Route("[controller]")]
     public class SessionsController : ControllerBase
     {
-
         private readonly ILogger<SessionsController> _logger;
         private readonly ISessionRepository sessionRepository;
 
@@ -28,7 +27,6 @@ namespace derivco.Controllers.SessionController
         {
             return await this.sessionRepository.GetAll();
         }
-
 
         [HttpGet]
         public async Task<List<Session>> GetById(Guid id)
