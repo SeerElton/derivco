@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eqUhIHJe1+0IU5FuxGV6ATYbhJAF/YWscqzjZwjWZWYugzjTBsSKZJoTYlyyBxBIgdw/4n7Enk3GvKXnTa96TQ==",
+  "dgSpecHash": "5HFkIuOVfclMXdHPeUT7v1zZ7iJCQUYwbskaDkt698Dbqi7Z41j2ifHYKAg6FIpR/xXblE1qVxkYqaqs7O0GVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\73\\Documents\\seers apps\\assesmenr\\api test\\derivco\\derivco.csproj",
+  "projectFilePath": "C:\\Users\\73\\Documents\\seers apps\\derivco\\api test\\derivco.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\73\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\73\\.nuget\\packages\\dapper.sqlbuilder\\2.0.78\\dapper.sqlbuilder.2.0.78.nupkg.sha512",

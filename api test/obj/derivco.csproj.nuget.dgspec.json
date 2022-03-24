@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\73\\Documents\\seers apps\\assesmenr\\api test\\derivco\\derivco.csproj": {}
+    "C:\\Users\\73\\Documents\\seers apps\\derivco\\api test\\derivco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\73\\Documents\\seers apps\\assesmenr\\api test\\derivco\\derivco.csproj": {
+    "C:\\Users\\73\\Documents\\seers apps\\derivco\\api test\\derivco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\73\\Documents\\seers apps\\assesmenr\\api test\\derivco\\derivco.csproj",
+        "projectUniqueName": "C:\\Users\\73\\Documents\\seers apps\\derivco\\api test\\derivco.csproj",
         "projectName": "derivco",
-        "projectPath": "C:\\Users\\73\\Documents\\seers apps\\assesmenr\\api test\\derivco\\derivco.csproj",
+        "projectPath": "C:\\Users\\73\\Documents\\seers apps\\derivco\\api test\\derivco.csproj",
         "packagesPath": "C:\\Users\\73\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\73\\Documents\\seers apps\\assesmenr\\api test\\derivco\\obj\\",
+        "outputPath": "C:\\Users\\73\\Documents\\seers apps\\derivco\\api test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\73\\AppData\\Roaming\\NuGet\\NuGet.Config",
